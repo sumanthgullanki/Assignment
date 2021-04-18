@@ -22,7 +22,7 @@ public class Runner {
 	}
 
 	// @Test
-	public void putTest() {
+	public void postTest() {
 		baseTest.put("/users/2");
 	}
 
